@@ -6,5 +6,4 @@ routing/static file untuk tampilan, perbaikan runtime pada server, hingga pengua
 pengguna dengan halaman login, register, katalog, dan dashboard yang lebih rapi. Selain itu, saya juga 
 memastikan aplikasi tetap dapat diuji dan berjalan dengan baik melalui test dasar".
 
-![Uploading image.png…]()
-
+![alt text](image.png)
